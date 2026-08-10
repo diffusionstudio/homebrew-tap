@@ -1,6 +1,6 @@
 cask "editor" do
-  version "0.129.0"
-  sha256 "33b223bea7948ca7199b00582631e69ec09b3d92605c3af7835b1dfc64969244"
+  version "0.130.0"
+  sha256 "0ab03b7e912a2f87209c6fee4536334d20a498ffb0df918e27c8edf4c7eef496"
 
   url "https://github.com/diffusionstudio/editor/releases/download/v#{version}/Diffusion-Studio-arm64.dmg"
   name "Diffusion Studio"
